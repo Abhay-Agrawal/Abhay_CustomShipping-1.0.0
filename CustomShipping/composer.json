@@ -1,0 +1,33 @@
+{
+  "name": "abhay/magento2-customshipping",
+  "description": "Custom Shipping Method",
+  "version": "1.0.0",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "require": {
+    "php": "~5.5.0|~5.6.0|~7.0.0|7.0.1|7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0"
+  },
+  "type": "magento2-module",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "authors": [
+    {
+      "name": "Abhay Kumar Agrawal",
+      "email": "abhay.agrawal0698@gmail.com",
+      "homepage": "https://www.linkedin.com/in/abhay-kumar-agrawal-9385a315a/",
+      "role": "Magento Developer"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Abhay\\CustomShipping\\": ""
+    }
+  }
+}
