@@ -1,2 +1,2 @@
-# Abhay_CustomShipping-1.0.0
-Add Custom Shipping for @magento website
+# CustomShipping Extension 
+Add Custom Shipping for magento website
