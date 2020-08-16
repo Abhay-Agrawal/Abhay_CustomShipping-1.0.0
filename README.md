@@ -3,7 +3,7 @@ Add Custom Shipping for magento website
 
 # How to install
 
-Add the module in app/code/ folder in magento root like as app/code/Abhay/GroupProductOptions
+Add the module in app/code/ folder in magento root like as app/code/Abhay/CustomShipping
 and run the command 
 ```php bin/magento setup:upgrade
 php bin/magento setup:di:compile
