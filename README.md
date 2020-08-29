@@ -12,6 +12,16 @@ php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
 ```
+___
+
+![shipping_backend](https://user-images.githubusercontent.com/55655451/91640748-8005f480-ea3d-11ea-8cb8-37366f87d985.png)
+
+___
+
+![shipping_1](https://user-images.githubusercontent.com/55655451/91640773-990ea580-ea3d-11ea-9006-913edc6555fe.png)
+___
+
+![payment_shipping](https://user-images.githubusercontent.com/55655451/91640788-b2afed00-ea3d-11ea-9935-ad77f1903698.png)
 
 ___
 
